@@ -1,4 +1,5 @@
 import PIL.Image
+# from PIL import Image
 
 
 # ascii chars used to build the output text
